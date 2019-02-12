@@ -1,4 +1,4 @@
 # codewars
-c++ stl practise
+c++ stl practice
 -----------------
-Basic tasks just for pratcise instead of learning prototypes.
+Basic tasks just for practice instead of learning prototypes.
